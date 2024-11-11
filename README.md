@@ -26,7 +26,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/upek007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="upek007" height="30" width="40" /></a>
+<a href="https://x.com/Upek007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="upek007" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/chamath-upeka-615030251/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chamath upeka" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/chamath13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="chamath_13" height="30" width="40" /></a>
 <a href="https://web.facebook.com/?_rdc=1&_rdr#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chamath upeka" height="30" width="40" /></a>
@@ -34,9 +34,6 @@
 <a href="https://medium.com/@devmaster007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@devmaster007" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@chamathupeka4650" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="chamath uepka" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/chamathupeka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="chamath upeka" height="30" width="40" /></a>
-<a href="https://www.threads.net/@chamath_upeka" target="blank">
-  <img align="center" src="https://www.flaticon.com/free-icon/threads_12105339?term=threads&page=1&position=3&origin=search&related_id=12105339" alt="chamath upeka" height="30" width="40" />
-</a>
 <a href="https://www.pinterest.com/MERNify/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/pinterest.svg" alt="chamath upeka" height="30" width="40" />
 </a>
