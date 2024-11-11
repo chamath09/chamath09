@@ -34,8 +34,8 @@
 <a href="https://medium.com/@devmaster007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@devmaster007" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@chamathupeka4650" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="chamath uepka" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/chamathupeka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="chamath upeka" height="30" width="40" /></a>
-<a href="https://www.threads.net/@chamath_upeka" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/threads.svg" alt="chamath upeka" height="30" width="40" />
+<a href="https://www.threads.net/@chamathupeka" target="blank">
+  <img align="center" src="https://your-repo-link/threads.svg" alt="chamath upeka" height="30" width="40" />
 </a>
 <a href="https://www.pinterest.com/MERNify/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/pinterest.svg" alt="chamath upeka" height="30" width="40" />
