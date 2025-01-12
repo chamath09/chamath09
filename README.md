@@ -47,10 +47,12 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/buy me a coffee chamath09"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buy me a coffee chamath09" /></a></p><br><br>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=chamath09&show_icons=true&locale=en&layout=compact" alt="chamath09" /></p>
+<p align="center" >
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chamath09&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chamath09&show_icons=true&locale=en" alt="chamath09" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chamath09&" alt="chamath09" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chamath09&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chamath09&" alt="GitHub Streak" />
 </p>
 
