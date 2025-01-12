@@ -6,13 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/upek007" target="blank"><img src="https://img.shields.io/twitter/follow/upek007?logo=twitter&style=for-the-badge" alt="upek007" /></a> </p>
 
-- 🔭 I’m currently working on [University Project](https://github.com/chamath09/Reservation-System.git)
+- 🔭 I’m currently working on [Medi-Tracker appt]([https://github.com/chamath09/Reservation-System.git](https://github.com/chamath09/Medi-tracker.git))
 
-- 🌱 I’m currently learning **Nextjs, TypeScript**
+- 🌱 I’m currently learning **SQL, TypeScript**
 
-- 👨‍💻 All of my projects are available at [https://chamathupeka.netlify.app/](https://chamathupeka.netlify.app/)
-
-- 📝 I regularly write articles on [https://medium.com/@devmaster007](https://medium.com/@devmaster007)
+- 📝 I regularly write articles on [https://medium.com/@chamathupeka]([https://medium.com/@devmaster007](https://medium.com/@chamathupeka))
 
 - 💬 Ask me about **JavaScript**
 
@@ -47,7 +45,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/buy me a coffee chamath09"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buy me a coffee chamath09" /></a></p><br><br>
 
-<p align="center" >
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chamath09&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
@@ -55,4 +53,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=chamath09&show_icons=true&locale=en" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=chamath09&" alt="GitHub Streak" />
 </p>
+
 
