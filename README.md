@@ -1,4 +1,4 @@
-<h1 align="center">Hello World!, I'm Chamath, a Full-Stack Web Developer 👋🏼:</h1>
+<h1 align="center">Hello World!, I'm Chamath 👋🏼:</h1>
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7C730&center=true&vCenter=true&width=600&lines=Software+Engineering+Undergraduate;Passionate+Full-Stack+Developer;Tech+Enthusiast+%F0%9F%92%BB;Always+learning+new+things+%F0%9F%93%9A" alt="Typing SVG" /> </p>
 🛜 currently working on my own <a href="https://chamath-chamaths-projects-47654336.vercel.app/" style="color: blue; text-decoration: underline;"> webpage</a>
 <br>👨🏼‍🎓 studying at University of Sri Jayawardhenapura<br>👨🏼‍💻 working as a web developer since 2022<br>
